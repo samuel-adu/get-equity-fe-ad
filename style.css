@@ -72,6 +72,10 @@ p {
     font-size: 36px;
   }
 
+  h1 span {
+    display: block;
+  }
+
   .chair {
     text-align: end;
   }
